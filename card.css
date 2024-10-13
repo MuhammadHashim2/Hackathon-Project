@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+div.card{
+    margin-top: 6%;
+    width: 770px;
+    border-radius: 6px;
+    height: 370px;
+    border: 5px solid;
+    background-color: #D2E0FB;
+    padding: 30px;
+    display: flex;
+    border-bottom-color: black;
+    border-left-color: orange;
+    border-right-color: red;
+    border-top-color: darkblue;
+}
+div.content{
+    width: 70%;
+    height: 300px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    margin-right: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    font-size: larger;
+}
+img{
+    width: 200px;
+}
+button{
+    background-color: #1230AE;
+    height: 40px;
+    width: 150px;
+    color: #FEF9D9;
+    border: 1px solid transparent;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+
+}
+div.card:hover{
+    border-bottom-color: purple;
+    border-left-color: green;
+    border-right-color: pink;
+    border-top-color: brown;
+}
+div.content:hover{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+div.card:hover{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(107,121,9,1) 35%, rgba(0,212,255,1) 100%);
+}
