@@ -1,0 +1,35 @@
+div.links{
+    margin-right: 0px;
+}
+div.image{
+    float: right;
+    margin-right: 50px;
+}
+button.btnn{
+    margin-top: 50px;
+}
+div.logoes img{
+    margin-right: 65px;
+}
+div.samebox,div.boxx{
+    width: 1000px;
+}
+div.boxy{
+  width: 410px;
+  padding: 40px;
+}
+p.parasec {
+    margin-right: 500px;
+}
+h1.boxh1, h1.boxh12{
+    margin-right: 0px;
+}
+div.headings h1.imghead {
+    width: 190px; 
+}
+div.box2 {
+    margin-right: 100px; 
+}
+div.boxx img {
+    margin-left: 69%;
+}

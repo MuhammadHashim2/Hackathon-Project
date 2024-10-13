@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Space Grotesk", sans-serif;
+}
+
+div.links a{
+    text-decoration: none;
+    color: black;
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer;
+}
+div.logo img{
+    margin-left: 50px;
+}
+div.links{
+    float: right;
+    margin-right: 100px;
+}
+div.logo{
+    float: left;
+}
+a button{
+    width: 231px;
+    height:  68px;
+    border-radius: 14px;
+    font-size: 20px;
+    background-color: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+}
+main.one{
+    margin-top: 120px;
+    background-color: grey;
+}
+div.content{
+    float: left;
+    /* width: 40%; */
+    margin-left: 50px;
+}
+div.image{
+    float: right;
+    margin-right: 150px;
+}
+h1.hd1{
+    font-size: 60px;
+    line-height: 76.56px;
+}
+p.para1{
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+}
+button.btnn{
+    width: 264px;
+    height: 68px;
+    background-color: #191A23;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    border-radius: 14px;
+    border-color: transparent;
+    cursor: pointer;
+}
+div.logoes{
+    margin-top: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+div.logoes img{
+    margin-right: 170px;
+    width: 124.11px;
+    height: 48px;
+}
+section.sec2{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+h1.h1btn{
+    width: 128px;
+    height: 28px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    background: #B9FF66;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+}
+p.parasec{
+    float: right;
+    margin-right: 1100px;
+}
+div.boxy{
+    margin-top: 100px;
+    width: 600px;
+    height: 210px;
+    border-radius: 45px;
+    padding: 50px;
+    border: 1px solid black;
+   
+}
+div.box1{
+    float: left;
+    margin-left: 50px;
+    background: #F3F3F3;
+}
+div.box2{
+    float: right;
+    margin-right: 200px;
+    background: #B9FF66;
+}
+h1.boxh1, h1.boxh12{
+    background: #B9FF66;
+   width: fit-content;
+   border-radius: 4px;
+   padding: 5px;
+   margin-right: 150px;
+}
+div.headings{
+    float: left;
+}
+div.headings img{
+    margin-top: 100px;
+    float: left;
+    margin-right: 10px;
+}
+div.headings h1.imghead{
+    margin-top: 105px;
+    font-weight: normal;
+    
+}
+h1.box2h1,h1.box2h12{
+    background-color: #F3F3F3;
+    border-radius: 4px;
+    padding: 5px;
+    width: fit-content;
+}
+div.imageee{
+    float: right;
+}
+div.box2 div.headings{
+    width: 200px;
+}
+main.two{
+    margin-top: 650px;
+    margin-left: 50px;
+}
+h1.sech1{
+    background: #B9FF66;
+    width: fit-content;
+    border-radius: 4px;
+    padding: 5px;
+    margin-right: 50px;
+    float: left;
+}
+div.boxx{
+    margin-top: 100px;
+    width: 1550px;
+    padding: 41px 60px 41px 60px;
+    height: 180px;
+    border-radius: 45px;
+    border: 1px solid black;
+    background: #B9FF66;
+}
+h1.boxx{
+    float: left;
+}
+div.boxx img{
+    margin-left: 79%;
+}
+div.boxxsec3{
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+div.paraces33 p{
+    margin-top: 50px;
+}
+div.samebox{
+    width: 1550px;
+    border: 1px solid #191A23;
+    height: 89px;
+    border-radius: 45px;
+    background: #F3F3F3;
+    padding: 41px 60px 41px 60px;
+    margin-top: 100px;
+}
+h1.samebox{
+    float: left;
+}
+div.samebox img{
+    float: right;
+    margin-top: -40px;
+}
+div.mar{
+    margin-left: -50px;
+    margin-bottom: 100px;
+}
